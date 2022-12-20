@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Davit</h1>
 
-<!--
-**araqelian/araqelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+<li> 🌴 I’m &nbsp;currently &nbsp;learning &nbsp;in &nbsp;42 &nbsp;Yerevan
+<li> 👀 I’m &nbsp;interested &nbsp;in &nbsp;C++, &nbsp;OOP,&nbsp; Algorithms,&nbsp; Data &nbsp;Structures&nbsp; and &nbsp;Game &nbsp;development
+</ul>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools<br>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,vim,visualstudio,vscode" />
+  </a>
+</p>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500px" height="415px">
+<img src="https://github-readme-stats.vercel.app/api?username=araqelian&show_icons=true&bg_color=00000000" width="450px")>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araqelian&layout=compact" width="450px">
