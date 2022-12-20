@@ -13,5 +13,5 @@
 <br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="450px" height="325px">
-<img src="https://github-readme-stats.vercel.app/api?username=araqelian&show_icons=true&bg_color=00000000" width="350px")>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araqelian&layout=compact" width="350px">
+<img src="https://github-readme-stats.vercel.app/api?username=araqelian&show_icons=true&theme=tokyonight" width="350px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araqelian&layout=compact&theme=tokyonight" width="350px">
