@@ -8,11 +8,7 @@
 <br>
 
 ### Languages and Tools<br>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vim,visualstudio,vscode" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=c,vim,visualstudio,vscode" />
 
 <br><br>
 
