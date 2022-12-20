@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 
 <ul>
-<li> 🌴 I’m &nbsp;currently &nbsp;learning &nbsp;in &nbsp;42 &nbsp;Yerevan
-<li> 👀 I’m &nbsp;interested &nbsp;in &nbsp;C++, &nbsp;OOP,&nbsp; Algorithms,&nbsp; Data &nbsp;Structures&nbsp; and &nbsp;Game &nbsp;development
+<li> 🌴 &nbsp;I’m &nbsp;currently &nbsp;learning &nbsp;in &nbsp;42 &nbsp;Yerevan
+<li> 👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;C++, &nbsp;OOP,&nbsp; Algorithms,&nbsp; Data &nbsp;Structures&nbsp; and &nbsp;Game &nbsp;development
 </ul>
 
 <br>
