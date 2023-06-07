@@ -1,7 +1,6 @@
 <h1 align="center">Hi &nbsp;👋, &nbsp;I'm&nbsp; Davit</h1>
 
 <ul>
-<li> 🌴 &nbsp;I’m &nbsp;currently &nbsp;learning &nbsp;in &nbsp;42 &nbsp;Yerevan
 <li> 👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;C++
 </ul>
 
