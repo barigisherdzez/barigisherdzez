@@ -2,7 +2,7 @@
 
 <ul>
 <li> 📚 &nbsp;I’m &nbsp;currently &nbsp;learning &nbsp;in&nbsp; <b> Armenian &nbsp;Code &nbsp;Academy</b> &nbsp;and &nbsp;<b>42 &nbsp;Yerevan</b>
-<li> 👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;<b>C, &nbsp;C++, &nbsp;Python, &nbsp;Data &nbsp;Structures, &nbsp;Algorithms</b>
+<li> 👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;<b>C, &nbsp;C++, &nbsp;Python, &nbsp;Data &nbsp;Structures &nbsp;and &nbsp;Algorithms</b>
 </ul>
 
 <br>
