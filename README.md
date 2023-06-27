@@ -1,7 +1,7 @@
 <h1 align="center">Hi &nbsp;👋, &nbsp;I'm&nbsp; Davit</h1>
 
 <ul>
-<li> I’m &nbsp;currently &nbsp;learning &nbsp;in&nbsp; <b> Armenian &nbsp;Code &nbsp;Academy</b> &nbsp;and &nbsp;<b>42 &nbsp;Yerevan</b>b
+<li> I’m &nbsp;currently &nbsp;learning &nbsp;in&nbsp; <b> Armenian &nbsp;Code &nbsp;Academy</b> &nbsp;and &nbsp;<b>42 &nbsp;Yerevan</b>
 <li> 👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;<b>C, &nbsp;C++, &nbsp;Python, &nbsp;Data &nbsp;Structures, &nbsp;Algorithms</b>
 </ul>
 
