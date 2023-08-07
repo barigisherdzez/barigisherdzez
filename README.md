@@ -1,4 +1,4 @@
-<h1 align="center">Hi &nbsp;👋, &nbsp;I'm&nbsp; Davit</h1>
+<h1 align="center">Hi &nbsp;👋, &nbsp;I'm&nbsp; David</h1>
 
 <ul>
 <li> 📚 &nbsp;I’m &nbsp;currently &nbsp;learning &nbsp;in&nbsp; <b> Armenian &nbsp;Code &nbsp;Academy</b> &nbsp;and &nbsp;<b>42 &nbsp;Yerevan</b>
