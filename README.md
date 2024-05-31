@@ -2,7 +2,7 @@
 
 <ul>
   <li>📚 &nbsp;I’m &nbsp;currently &nbsp;learning &nbsp;in&nbsp; <b>42 &nbsp;International &nbsp;Programming &nbsp;School &nbsp;in &nbsp;Yerevan</b></b>
-  <li>👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;<b>Software &nbsp;engineering</b> &nbsp;and &nbsp;<b>Cybersecurity</b></li>
+  <li>👀 &nbsp;I’m &nbsp;interested &nbsp;in &nbsp;<b>Cybersecurity</b> &nbsp;and &nbsp;<b>Software &nbsp;engineering</b></li>
 </ul>
 
 <br>
